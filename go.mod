@@ -1,4 +1,4 @@
-module test-fyne
+module github.com/VashUber/golang-todo
 
 go 1.19
 
